@@ -80,13 +80,6 @@ This project is a Flask-based RESTful API for managing an e-commerce system. The
    python fitness_center.py
    ```
 
-## Running the Application
-
-Run the Flask application:
-```sh
-python fitness_center.py
-```
-
 ## API Endpoints
 
 ### Customer Endpoints
